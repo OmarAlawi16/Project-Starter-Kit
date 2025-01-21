@@ -18,11 +18,20 @@ npm create vite@latest .
 ```bash
 cd <project-name>
 ```
-
+   
 - [ ]  Install dependencies:
 ```bash
 npm install
 ```
+
+- [ ] add vite.config.ts
+"typescript"
+import { defineConfig } from 'vite';
+
+export default defineConfig({
+    'base': '/<repo-name>/',
+});
+
 ### 2. Add Sass Support
 - [ ] Install Sass:
 ```bash
