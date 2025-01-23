@@ -2,7 +2,7 @@
 
 Welcome to the Project Starter Kit! This repository provides a solid foundation for starting new projects with best practices and standards.  
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/OmarAlawi16/Project-Starter-Kit/ci.yml)  
+![Build Status](https://img.shields.io/github/actions/workflow/status/OmarAlawi16/Project-Starter-Kit/ci.yml?branch=main)  
 ![License](https://img.shields.io/github/license/OmarAlawi16/Project-Starter-Kit)  
 
 ## Features  
