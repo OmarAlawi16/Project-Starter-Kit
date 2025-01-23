@@ -22,7 +22,6 @@ This project adheres to the following standards to ensure high quality:
 - ✅ Secure implementation with input validation and HTTPS enforced.  
 
 For a step-by-step guide to setting up the project, please see [start-vite-project.md](start-vite-project.md).  
-For a detailed checklist and contribution guidelines, please see [CONTRIBUTING.md](CONTRIBUTING.md).  
 
 ## How to Contribute  
 
