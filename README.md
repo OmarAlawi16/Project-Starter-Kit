@@ -2,8 +2,8 @@
 
 Welcome to the Project Starter Kit! This repository provides a solid foundation for starting new projects with best practices and standards.  
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/username/project-name/ci.yml)  
-![License](https://img.shields.io/github/license/username/project-name)  
+![Build Status](https://img.shields.io/github/actions/workflow/status/OmarAlawi16/Project-Starter-Kit/ci.yml)  
+![License](https://img.shields.io/github/license/OmarAlawi16/Project-Starter-Kit)  
 
 ## Features  
 - Pre-configured Vite setup for fast development.  
