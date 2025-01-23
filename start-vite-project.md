@@ -9,8 +9,9 @@ This repository contains configuration files and tools for kickstarting develope
   Ensure your Node.js version is at least **14.18+** to support Vite.  
   ```bash
   node -v
+   ```
   If your version is outdated, download the latest stable version from nodejs.org.
-   ```  
+
 - [ ] **Navigate to the project folder:**
    ```bash
    cd /path/to/your/project-folder
@@ -91,6 +92,7 @@ If you chose TypeScript during Vite's setup, skip this step. Otherwise:
      }
    }
    ```
+   
 - Example .prettierrc:
    ```json
    {
